@@ -90,7 +90,7 @@ public class SistemPerpus {
                         }
 
                         JOptionPane.showMessageDialog(
-                            null, "SISTEM MENU MAKANAN\n\n" + daftar
+                            null, "DAFTAR MENU MAKANAN\n\n" + daftar
                         );
                     }
                     break;
